@@ -27,4 +27,6 @@ Notes :
 
 - To test how the code works, runs it using the datasets that exists in the project (there are 3 datasets os , db and tetris) .
 
-- The CLAN version thats we used in the project to measure similarity score is included in CLANOnGitHub-master
+- The CLAN version thats we used in the project to measure similarity score is included in CLAN
+
+- The CLAN verison was modiefid so it can create the similarity matrix between each project in the dataset. 
